@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "restify": "^4.3.0",
-    "tracking-correios": "^1.0.4"
+    "tracking-correios": "^1.0.7"
   },
   "devDependencies": {
     "babel-cli": "^6.18.0",
