@@ -1,5 +1,7 @@
 # rest-tracking
 
+[![Build Status](https://travis-ci.org/gabrielboliveira/rest-tracking.svg?branch=master)](https://travis-ci.org/gabrielboliveira/rest-tracking)
+
 API REST para abstrair o método `track` do pacote [tracking-correios](https://github.com/gabrielboliveira/tracking-correios).
 
 ## Pré-requisitos
