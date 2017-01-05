@@ -1,6 +1,6 @@
 {
   "name": "rest-tracking",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "REST desenvolvido para abstrair o pacote tracking-correios.",
   "main": "dist/track.js",
   "keywords": [],
